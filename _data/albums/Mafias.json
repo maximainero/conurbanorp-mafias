@@ -1,0 +1,174 @@
+{
+  "order": [
+    "yzf.png",
+    "xre300.png",
+    "xr250.png",
+    "wraith.png",
+    "wildtrack.png",
+    "variszupra.png",
+    "urus.png",
+    "trx.png",
+    "trr.png",
+    "subwrx.png",
+    "skyline.png",
+    "raptor2017.png",
+    "nqsrt.png",
+    "kx450f.png",
+    "gronos6x6.png",
+    "gclass9.png",
+    "duker.png",
+    "checap17.png",
+    "amggtc.png",
+    "21sierra.png",
+    "17powerwagon.png"
+  ],
+  "dict": {
+    "yzf.png": {
+      "type": "photo",
+      "width": 1288,
+      "height": 724,
+      "path": "./photos/Mafias/yzf.png",
+      "min_path": "./photos/Mafias/yzf.min.png"
+    },
+    "xre300.png": {
+      "type": "photo",
+      "width": 1288,
+      "height": 724,
+      "path": "./photos/Mafias/xre300.png",
+      "min_path": "./photos/Mafias/xre300.min.png"
+    },
+    "xr250.png": {
+      "type": "photo",
+      "width": 1288,
+      "height": 723,
+      "path": "./photos/Mafias/xr250.png",
+      "min_path": "./photos/Mafias/xr250.min.png"
+    },
+    "wraith.png": {
+      "type": "photo",
+      "width": 1286,
+      "height": 722,
+      "path": "./photos/Mafias/wraith.png",
+      "min_path": "./photos/Mafias/wraith.min.png"
+    },
+    "wildtrack.png": {
+      "type": "photo",
+      "width": 1405,
+      "height": 791,
+      "path": "./photos/Mafias/wildtrack.png",
+      "min_path": "./photos/Mafias/wildtrack.min.png"
+    },
+    "variszupra.png": {
+      "type": "photo",
+      "width": 1285,
+      "height": 721,
+      "path": "./photos/Mafias/variszupra.png",
+      "min_path": "./photos/Mafias/variszupra.min.png"
+    },
+    "urus.png": {
+      "type": "photo",
+      "width": 1289,
+      "height": 722,
+      "path": "./photos/Mafias/urus.png",
+      "min_path": "./photos/Mafias/urus.min.png"
+    },
+    "trx.png": {
+      "type": "photo",
+      "width": 1288,
+      "height": 722,
+      "path": "./photos/Mafias/trx.png",
+      "min_path": "./photos/Mafias/trx.min.png"
+    },
+    "trr.png": {
+      "type": "photo",
+      "width": 1416,
+      "height": 795,
+      "path": "./photos/Mafias/trr.png",
+      "min_path": "./photos/Mafias/trr.min.png"
+    },
+    "subwrx.png": {
+      "type": "photo",
+      "width": 1287,
+      "height": 723,
+      "path": "./photos/Mafias/subwrx.png",
+      "min_path": "./photos/Mafias/subwrx.min.png"
+    },
+    "skyline.png": {
+      "type": "photo",
+      "width": 1286,
+      "height": 722,
+      "path": "./photos/Mafias/skyline.png",
+      "min_path": "./photos/Mafias/skyline.min.png"
+    },
+    "raptor2017.png": {
+      "type": "photo",
+      "width": 1286,
+      "height": 722,
+      "path": "./photos/Mafias/raptor2017.png",
+      "min_path": "./photos/Mafias/raptor2017.min.png"
+    },
+    "nqsrt.png": {
+      "type": "photo",
+      "width": 1288,
+      "height": 724,
+      "path": "./photos/Mafias/nqsrt.png",
+      "min_path": "./photos/Mafias/nqsrt.min.png"
+    },
+    "kx450f.png": {
+      "type": "photo",
+      "width": 1276,
+      "height": 717,
+      "path": "./photos/Mafias/kx450f.png",
+      "min_path": "./photos/Mafias/kx450f.min.png"
+    },
+    "gronos6x6.png": {
+      "type": "photo",
+      "width": 1403,
+      "height": 791,
+      "path": "./photos/Mafias/gronos6x6.png",
+      "min_path": "./photos/Mafias/gronos6x6.min.png"
+    },
+    "gclass9.png": {
+      "type": "photo",
+      "width": 1290,
+      "height": 723,
+      "path": "./photos/Mafias/gclass9.png",
+      "min_path": "./photos/Mafias/gclass9.min.png"
+    },
+    "duker.png": {
+      "type": "photo",
+      "width": 1276,
+      "height": 716,
+      "path": "./photos/Mafias/duker.png",
+      "min_path": "./photos/Mafias/duker.min.png"
+    },
+    "checap17.png": {
+      "type": "photo",
+      "width": 1405,
+      "height": 791,
+      "path": "./photos/Mafias/checap17.png",
+      "min_path": "./photos/Mafias/checap17.min.png"
+    },
+    "amggtc.png": {
+      "type": "photo",
+      "width": 1287,
+      "height": 722,
+      "path": "./photos/Mafias/amggtc.png",
+      "min_path": "./photos/Mafias/amggtc.min.png"
+    },
+    "21sierra.png": {
+      "type": "photo",
+      "width": 1288,
+      "height": 723,
+      "path": "./photos/Mafias/21sierra.png",
+      "min_path": "./photos/Mafias/21sierra.min.png"
+    },
+    "17powerwagon.png": {
+      "type": "photo",
+      "width": 1286,
+      "height": 725,
+      "path": "./photos/Mafias/17powerwagon.png",
+      "min_path": "./photos/Mafias/17powerwagon.min.png"
+    }
+  }
+}
